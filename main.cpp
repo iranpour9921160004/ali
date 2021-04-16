@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 class complexCls{
   double re, img;
