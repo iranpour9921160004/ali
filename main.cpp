@@ -181,7 +181,4 @@ void test(void){
   myArray c;
   c = b = a; // c.opertor=(b.operator=(a))
   b.print();
-  myArray f;
-  f.testInput;
-  f.print;
 }
